@@ -61,9 +61,9 @@ Certificat de bonne conduite
 """)
 
 st.header("COMPETENCES")
-st.markdown(""" 
+ 
 
-st.subheader("Géomatique =")  
+st.subheader("""Géomatique""")  
 
 Géorefencement
 
@@ -77,7 +77,7 @@ Cartographie avec maitrise des outils SIG (ArcGIS,QGIS)
 
 
 
-st.subheader("programmation =")
+st.subheader("""programmation""")
 
 
 Suite Microsoft Offfice
@@ -90,7 +90,7 @@ Collecte de Données avec les outils comme GPS,kobocollects
 
 
 
-st.subheader("Plongée professionnelle = ")
+st.subheader("""Plongée professionnelle""")
 
 
 Sécurité maritime et gestion de
@@ -108,7 +108,7 @@ offshore
 
 Bonne maitrise de l’informatique
 
-""")
+
 
 st.header("EDUCATION")
 st.markdown("""
