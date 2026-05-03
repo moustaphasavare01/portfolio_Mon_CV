@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.markdown("""
-EL HADJI MAMADOU MOUSTAPHA SAVARE
+st.title("EL HADJI MAMADOU MOUSTAPHA SAVARE")
 
+st.markdown("""
 Technicien Supérieur en Géomatique Marine  
 
 Ancien Marin Militaire &
@@ -63,8 +63,8 @@ Certificat de bonne conduite
 st.header("COMPETENCES")
 st.markdown(""" 
 
-Géomatique = 
-["
+st.subheader("Géomatique =")  
+
 Géorefencement
 
 Base de données Géospatiales
@@ -74,11 +74,11 @@ Initiation à la Télédétection
 Cartographie Numérique
 
 Cartographie avec maitrise des outils SIG (ArcGIS,QGIS)
-"]
 
 
-programmation =
-["
+
+st.subheader("programmation =")
+
 
 Suite Microsoft Offfice
 
@@ -87,11 +87,11 @@ Python & Languages de programmation
 Dessin Plan Autocad
 
 Collecte de Données avec les outils comme GPS,kobocollects
-"]
 
 
-Plongée professionnelle = 
-["
+
+st.subheader("Plongée professionnelle = ")
+
 
 Sécurité maritime et gestion de
 crise
@@ -105,7 +105,7 @@ esprit d’initiative
 
 Connaissance des protocoles HSE
 offshore
-"]
+
 Bonne maitrise de l’informatique
 
 """)
@@ -141,6 +141,10 @@ CONTACT
  📞 +221 77 717 16  01
 
  📧 moustaphalayethiaw@gmail.com
+
+ www.linkedin.com/in/
+el-hadji-mamadou-moustapha-savare-843b5b362
+
 
 📍 Grand Mbao , Dakar, Sénégal
 
