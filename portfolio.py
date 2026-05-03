@@ -65,6 +65,8 @@ st.header("COMPETENCES")
 
 st.subheader("""Géomatique""")  
 
+st.write("""
+
 Géorefencement
 
 Base de données Géospatiales
@@ -75,10 +77,12 @@ Cartographie Numérique
 
 Cartographie avec maitrise des outils SIG (ArcGIS,QGIS)
 
-
+""")
 
 st.subheader("""programmation""")
 
+
+st.write("""
 
 Suite Microsoft Offfice
 
@@ -88,10 +92,12 @@ Dessin Plan Autocad
 
 Collecte de Données avec les outils comme GPS,kobocollects
 
-
+""")
 
 st.subheader("""Plongée professionnelle""")
 
+
+st.write("""
 
 Sécurité maritime et gestion de
 crise
@@ -107,7 +113,7 @@ Connaissance des protocoles HSE
 offshore
 
 Bonne maitrise de l’informatique
-
+""")
 
 
 st.header("EDUCATION")
